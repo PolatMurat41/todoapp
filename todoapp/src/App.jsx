@@ -9,8 +9,6 @@ function App() {
     <div className="App">
       <Header />
       <Todo />
-      <InlıneComponent />
-      <OutlineComponent />
     </div>
   );
 }
